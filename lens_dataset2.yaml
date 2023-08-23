@@ -1,0 +1,5 @@
+train: /Users/tylerhouchin/Desktop/Mediprint/lens_inspection/yolo/lens_dataset_aug2023/training/images/
+val: /Users/tylerhouchin/Desktop/Mediprint/lens_inspection/yolo/lens_dataset_aug2023/validation/images/
+test: /Users/tylerhouchin/Desktop/Mediprint/lens_inspection/yolo/lens_dataset_aug2023/testing/images/
+nc: 1
+names: ['contact lens']
